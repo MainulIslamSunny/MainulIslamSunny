@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Mainul Islam</h1>
-<h3 align="center">Full Stack Web Developer | Assistant Network Engineer | Cybersecurity Enthusiast</h3>
+<h3 align="center">Full Stack Web Developer | Cybersecurity Enthusiast</h3>
 
 <p align="center">
   <a href="https://portfolio-mainul.vercel.app/">
@@ -19,7 +19,8 @@
 
 - 🎓 BSc in Computer Science & Engineering from **Daffodil International University**
 - 💻 Passionate **Full Stack Web Developer**
-- 🌐 Currently working as **Assistant Network Engineer at Amber IT LTD**
+- 🌐 Worked as **Assistant Network Engineer at Amber IT LTD**
+- 🌐 Worked as **Manual Software Testing Trainee at A1QA**
 - 🔐 Interested in **Cybersecurity, AI & Machine Learning**
 - 📚 Research interests:
   - AI-Driven Intrusion Detection Systems
